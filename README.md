@@ -10,8 +10,6 @@ WEEK 1 :
 3. DNS Cache with TTL
 4. Plagiarism Detection System
 5. Real-Time Website Analytics Dashboard
-
-WEEK 2:
 6. Distributed API Rate Limiter
 7. Search Autocomplete System
 8. Parking Lot Management (Open Addressing)
