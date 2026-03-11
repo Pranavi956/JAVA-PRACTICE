@@ -4,7 +4,7 @@ This repository contains Java implementations of real-world system design proble
 The programs demonstrate concepts like caching, rate limiting, autocomplete, analytics tracking, and collision handling.
 
 ## Implemented Programs
-WEEK 1 : 
+WEEK 1 AND 2: 
 1. Username Availability Checker
 2. Flash Sale Inventory Manager
 3. DNS Cache with TTL
